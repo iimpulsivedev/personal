@@ -87,7 +87,7 @@ export default function Home() {
           <p className="mx-4 my-6 border-2 border-green-500 p-4 text-5xl">iimpulsive</p>
         </div>
       </div>
-      <div className="min-w-screen text-screen bg-black text-center text-white">
+      <div className="min-w-screen sticky bottom-0 bg-black text-center text-white">
         <p className="p-5 text-3xl">Footer</p>
       </div>
     </main>
