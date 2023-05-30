@@ -11,8 +11,8 @@ export default function Home() {
           <Image
             src="/noah-pickle.JPEG"
             alt="picture of noah pickle"
-            width={300}
-            height={300}
+            width={350}
+            height={350}
           />
         </div>
         <div>
